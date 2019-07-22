@@ -10,3 +10,4 @@ Micro-Averaged F1-Score (Mean F Score) : The F1 score can be interpreted as a we
 F1 = 2 (precision recall) / (precision + recall)
 
 In the multi-class and multi-label case, this is the weighted average of the F1 score of each class. 
+#### Final Year Project
